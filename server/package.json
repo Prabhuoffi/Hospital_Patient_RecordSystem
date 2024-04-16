@@ -1,0 +1,23 @@
+{
+  "name": "server.js",
+  "version": "1.0.0",
+  "description": "hospital record system",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "prabhuoffi"
+  },
+  "author": "prabhu",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mongoose": "^8.3.1",
+    "nodemon": "^3.1.0"
+  }
+}
