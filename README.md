@@ -16,6 +16,7 @@ React.js: Frontend library for building interactive user interfaces.
 Node.js: JavaScript runtime environment for server-side development.
 Mongoose: MongoDB object modeling for Node.js
 Axios: Promise-based HTTP client for making requests to the backend.
+tailwindcss
 Getting Started
 Prerequisites
 Node.js and npm installed on your machine
@@ -25,7 +26,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/hospital-patient-record-system.git
+git clone https://github.com/Prabhuoffi/Hospital_Patient_RecordSystem.git
 Install dependencies:
 
 bash
